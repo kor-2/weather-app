@@ -1,6 +1,6 @@
 # weather-app
 
-First test project with React and openWeather API (https://openweathermap.org/)
+First test project with React and openWeather API (https://openweathermap.org/) by following this => https://www.youtube.com/watch?v=7SmMUS3rWjs
 
 # Getting Started with Create React App
 
