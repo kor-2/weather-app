@@ -1,3 +1,7 @@
+# weather-app
+
+First test project with React and openWeather API (https://openweathermap.org/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
